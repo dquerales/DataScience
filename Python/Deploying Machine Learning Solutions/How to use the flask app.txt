@@ -1,0 +1,6 @@
+1. open anaconda powershell
+2. cd "C:\Users\Daniel\Documents\Github_DataProjects\Data-Analysis\Python\Deploying Machine Learning Solutions"
+3. python server.py
+4. open another powershell
+5. curl.exe -XPOST http://localhost:8080/api -H 'Content-Type: application/json' -d '@test_data.json'
+6. or use the request.py
