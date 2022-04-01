@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Sentiment Analysis Movie Reviews</title>
+  <meta charset="UTF-8">
+  <title>Movie Reviews</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='./style.css') }}">
   
 </head>
 
 <body>
  <div class="login">
-	<h1>Sentiment Analysis Movie Reviews</h1>
+	<h1>Movie Reviews</h1>
 
      <!-- Form to enter new data for predictions  -->
     <form action="{{ url_for('predict')}}"method="POST">
-      <input type="text" name="X" placeholder="X" required="required" /><br>
-      <input type="text" name="Text" placeholder="Text" required="required" /><br>
+    	<input type="text" name="Review" placeholder="Review" required="required" /><br>
       <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
     </form>
 

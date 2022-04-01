@@ -1,6 +1,5 @@
 #required lib
-from flask import Flask, request, url_for, redirect, render_template, jsonify
-import pandas as pd
+from flask import Flask, request, render_template, jsonify
 import pickle
 import numpy as np
 
@@ -10,18 +9,18 @@ app = Flask(__name__)
 #load model
 model = pickle.load(open('model.pkl', 'rb'))
 
-#app_route
 @app.route('/')
 def home():
     return render_template("home.html")
 
-@app.route('/api', methods=['POST'])
+@app.route('/api',methods=['POST'])
 def predict():
-    data = request.get_json(force=True)
-    prediction = model.predict(data["X"])
-    output_text = "Text:" + str(data["X"])
+    data = request.values
+    #data = request.get_json(force=True)
+    prediction = model.predict(data)
+    output_text = "Text:" + str(data)
     output = "Class: " + str(prediction)
     return jsonify(output_text, output)
 
 if __name__ == '__main__':
-    app.run(port=8080, debug=True)
+    app.run(debug=True)
