@@ -6,29 +6,35 @@ It contains exercises using Excel, R, PowerBI, Python and SQL. Also some persona
 
 * [Customer Segmentation](https://github.com/dquerales/DataScience/tree/main/Projects/Customer%20Segmentation)
 
+  * A unsupervised machine learning project for clustering customers for a marketing campaign.
+
 * [Fraud Detection](https://github.com/dquerales/DataScience/tree/main/Projects/Fraud%20Detection)
+  
+  * A logistic regression project for fraud detection in finance environments. 
 
 * [Predicting Diseases](https://github.com/dquerales/DataScience/tree/main/Projects/Predicting%20Diseases)
 
 * [Predicting Stock Prices with Linear Regression](https://github.com/dquerales/DataScience/tree/main/Projects/Predicting%20Stock%20Prices%20with%20Linear%20Regression)
 
-* * A machine learning project of the Tesla (TSLA) stock historic dataset to predict prices using a linear regression model.
+   * A machine learning project of the Tesla (TSLA) stock historic dataset to predict prices using a linear regression model.
 
 * [Product Recommendations](https://github.com/dquerales/DataScience/tree/main/Projects/Product%20Recommendations)
+
+  * An apriori algorithm project for product recommendations for a retail store. 
 
 * [Real Estate Data Cleaning](https://github.com/dquerales/DataScience/tree/main/Projects/Real%20Estate%20Data%20Cleaning)
 
 * [Sales Analysis](https://github.com/dquerales/DataScience/tree/main/Projects/Sales%20Analysis)
 
-* * A data cleaning, transformation and analysis project of the sales record from an electronic store using Python.
+  * A data cleaning, transformation and analysis project of the sales record from an electronic store using Python.
 
 * [Sentiment Analysis](https://github.com/dquerales/DataScience/tree/main/Projects/Sentiment%20Analysis)
 
-* * A text classifier machine learning model for sentiment analysis implemented in a Web App
+  * A text classifier machine learning model for sentiment analysis implemented in a Web App
 
 * [Two years of COVID](https://github.com/dquerales/DataScience/tree/main/Projects/Two%20years%20of%20COVID)
 
-* * A data exploration project of the COVID-19 dataset (from 2020 to 2021) using tools like are SQL Server and Tableau Public.
+  * A data exploration project of the COVID-19 dataset (from 2020 to 2021) using tools like are SQL Server and Tableau Public.
 
 # Contact me 
 [![LinkedIn][linkedin-shield]][linkedin-url]
