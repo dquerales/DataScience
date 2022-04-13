@@ -27,8 +27,8 @@ It contains exercises using Excel, R, PowerBI, Python and SQL. Also some persona
   * An apriori algorithm project for product recommendations for a retail store. 
 
 * [Real Estate Data Cleaning](https://github.com/dquerales/DataScience/tree/main/Projects/Real%20Estate%20Data%20Cleaning)
- 
- * MySQL example for data cleaning from real state dataset 
+  
+  * MySQL example for data cleaning from real state dataset 
 
 * [Sales Analysis](https://github.com/dquerales/DataScience/tree/main/Projects/Sales%20Analysis)
 
