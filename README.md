@@ -14,6 +14,10 @@ It contains exercises using Excel, R, PowerBI, Python and SQL. Also some persona
 
 * [Predicting Diseases](https://github.com/dquerales/DataScience/tree/main/Projects/Predicting%20Diseases)
 
+  * An logistic regression model for predicting diabetes using oversample methods in data.
+  * Multiples models to predict diastolic blood pressure.
+  * Test performance of four models to predict liver diseases.
+
 * [Predicting Stock Prices with Linear Regression](https://github.com/dquerales/DataScience/tree/main/Projects/Predicting%20Stock%20Prices%20with%20Linear%20Regression)
 
    * A machine learning project of the Tesla (TSLA) stock historic dataset to predict prices using a linear regression model.
