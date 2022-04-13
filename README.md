@@ -14,7 +14,7 @@ It contains exercises using Excel, R, PowerBI, Python and SQL. Also some persona
 
 * [Predicting Diseases](https://github.com/dquerales/DataScience/tree/main/Projects/Predicting%20Diseases)
 
-  * An logistic regression model for predicting diabetes using oversample methods in data.
+  * A logistic regression model for predicting diabetes using oversample methods in data.
   * Multiples models to predict diastolic blood pressure.
   * Test performance of four models to predict liver diseases.
 
