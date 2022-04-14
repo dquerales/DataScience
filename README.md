@@ -14,7 +14,7 @@ It contains exercises using Excel, R, PowerBI, Python and SQL. Also some persona
 
 * [Predicting Diseases](https://github.com/dquerales/DataScience/tree/main/Projects/Predicting%20Diseases)
 
-  * An logistic regression model for predicting diabetes using oversample methods in data.
+  * A logistic regression model for predicting diabetes using oversample methods in data.
   * Multiples models to predict diastolic blood pressure.
   * Test performance of four models to predict liver diseases.
 
@@ -27,6 +27,8 @@ It contains exercises using Excel, R, PowerBI, Python and SQL. Also some persona
   * An apriori algorithm project for product recommendations for a retail store. 
 
 * [Real Estate Data Cleaning](https://github.com/dquerales/DataScience/tree/main/Projects/Real%20Estate%20Data%20Cleaning)
+  
+  * MySQL example for data cleaning from real state dataset 
 
 * [Sales Analysis](https://github.com/dquerales/DataScience/tree/main/Projects/Sales%20Analysis)
 
