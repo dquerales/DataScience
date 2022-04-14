@@ -1,2 +1,0 @@
-cd "C:\Users\Daniel\Documents\Github_DataProjects\Data-Analysis\Python\Heroku"
-python app.py
