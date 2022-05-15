@@ -1,0 +1,4 @@
+1) to create: conda create --name myenv
+2) to activate: conda activate myenv
+3) to: conda install python
+4) to save pckg: pip freeze --local > requirement.txt
